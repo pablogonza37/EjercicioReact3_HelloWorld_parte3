@@ -7,7 +7,7 @@ function App() {
 
   return (
     <Container>
-      <Titulo></Titulo>
+      <Titulo mensajeProps='my friend'></Titulo>
     </Container>
   )
 }
