@@ -1,6 +1,6 @@
 const Titulo = () => {
     return (
-        <h1>
+        <h1 className="display-1 text-center">
            Hello 
         </h1>
     );
