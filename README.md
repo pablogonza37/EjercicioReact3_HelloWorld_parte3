@@ -7,7 +7,7 @@ En esta versión del proyecto, el componente HelloWorld tiene un estado interno 
 ## Instalación
 Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 
-- Clona este repositorio en tu máquina local utilizando Git: git clone <url-del-repositorio>
+- Clona este repositorio en tu máquina local utilizando Git: git clone https://github.com/pablogonza37/EjercicioReact3_HelloWorld_parte3.git
 - Navega al directorio del proyecto: cd react-hello-world
 - Instala las dependencias del proyecto utilizando npm o yarn: npm install o yarn install
 Una vez completada la instalación de las dependencias, puedes iniciar la aplicación: npm start o yarn start
