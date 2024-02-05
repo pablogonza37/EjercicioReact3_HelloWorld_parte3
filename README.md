@@ -4,6 +4,10 @@ Este proyecto es una evolución del proyecto anterior, donde se ha modificado el
 ## Descripción
 En esta versión del proyecto, el componente HelloWorld tiene un estado interno con la clave msj inicializado como "(from changed state)". Al presionar el botón, el mensaje del estado se muestra por pantalla.
 
+## Demo
+
+Puedes ver una demostración del proyecto en vivo en [Netlify](https://ejercicioreact3-helloworld3-af89cb.netlify.app/).
+
 ## Instalación
 Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 
